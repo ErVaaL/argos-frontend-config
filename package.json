@@ -1,11 +1,11 @@
 {
-    "name": "@argos/frontend-config",
-    "version": "0.0.1",
-    "private": true,
-    "type": "module",
-    "exports": {
-        "./postcss": "./src/postcss.config.mjs"
-        "./tailwind": "./src/tailwind/index.ts"
-        "./tsconfig":"./tsconfig.base.json"
-    }
+  "name": "@argos/frontend-config",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./postcss": "./src/postcss.config.mjs",
+    "./tailwind": "./src/tailwind/index.ts",
+    "./tsconfig": "./tsconfig.base.json"
+  }
 }
